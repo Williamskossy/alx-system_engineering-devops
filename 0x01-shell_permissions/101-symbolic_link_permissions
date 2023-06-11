@@ -1,0 +1,2 @@
+#!/bin/bash
+chom -h vincent:staff _hello
